@@ -9,7 +9,7 @@ A simple Python script that provides periodic desktop notifications on Windows w
 
 ## Screenshot
 
-![Untitled Project](https://github.com/user-attachments/assets/a03dd696-d7d3-4e38-9e50-c3a7cb69abf6)
+<img src="https://github.com/user-attachments/assets/fb018201-d44f-46cf-b840-cee6379d08a1" alt="gif-preview" />
 
 ## Features
 - Live Data: Fetches up-to-date global case numbers from a reliable API.
